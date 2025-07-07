@@ -14,7 +14,7 @@ class _ProfileScreenState extends State<ProfileScreen> {
       appBar: AppBar(
         title: Center(
           child: Text(
-            'Profile info',
+            'Profile Info',
             style: TextStyle(color: Color(0xFF00A884)),
           ),
         ),
